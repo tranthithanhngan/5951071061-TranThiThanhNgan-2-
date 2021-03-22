@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\LapTrinhAPI\5951071061-TranThiThanhNgan\TranThiThanhNgan-5951071061\TranThiThanhNgan-5951071061\bin\Debug\TranThiThanhNgan-5951071061.exe.config
+C:\Users\DELL\Documents\LapTrinhAPI\5951071061-TranThiThanhNgan\TranThiThanhNgan-5951071061\TranThiThanhNgan-5951071061\bin\Debug\TranThiThanhNgan-5951071061.exe
+C:\Users\DELL\Documents\LapTrinhAPI\5951071061-TranThiThanhNgan\TranThiThanhNgan-5951071061\TranThiThanhNgan-5951071061\bin\Debug\TranThiThanhNgan-5951071061.pdb
+C:\Users\DELL\Documents\LapTrinhAPI\5951071061-TranThiThanhNgan\TranThiThanhNgan-5951071061\TranThiThanhNgan-5951071061\obj\Debug\TranThiThanhNgan-5951071061.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\LapTrinhAPI\5951071061-TranThiThanhNgan\TranThiThanhNgan-5951071061\TranThiThanhNgan-5951071061\obj\Debug\TranThiThanhNgan_5951071061.Form1.resources
+C:\Users\DELL\Documents\LapTrinhAPI\5951071061-TranThiThanhNgan\TranThiThanhNgan-5951071061\TranThiThanhNgan-5951071061\obj\Debug\TranThiThanhNgan_5951071061.Properties.Resources.resources
+C:\Users\DELL\Documents\LapTrinhAPI\5951071061-TranThiThanhNgan\TranThiThanhNgan-5951071061\TranThiThanhNgan-5951071061\obj\Debug\TranThiThanhNgan-5951071061.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\LapTrinhAPI\5951071061-TranThiThanhNgan\TranThiThanhNgan-5951071061\TranThiThanhNgan-5951071061\obj\Debug\TranThiThanhNgan-5951071061.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\LapTrinhAPI\5951071061-TranThiThanhNgan\TranThiThanhNgan-5951071061\TranThiThanhNgan-5951071061\obj\Debug\TranThiThanhNgan-5951071061.exe
+C:\Users\DELL\Documents\LapTrinhAPI\5951071061-TranThiThanhNgan\TranThiThanhNgan-5951071061\TranThiThanhNgan-5951071061\obj\Debug\TranThiThanhNgan-5951071061.pdb
